@@ -1,0 +1,1206 @@
+{
+  "dead": [
+    {
+      "link": "https://www.kiwifarms.net",
+      "statusCode": 503,
+      "status": "dead",
+      "name": "KiwiFarms"
+    },
+    {
+      "link": "https://www.toondoo.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "ToonDoo"
+    },
+    {
+      "link": "https://www.specials.mastercard.de",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.specials.mastercard.de"
+      },
+      "status": "dead",
+      "name": "MastercardPricelessSpecials"
+    },
+    {
+      "link": "https://www.cracked.to",
+      "statusCode": 503,
+      "status": "dead",
+      "name": "CrackedTO"
+    },
+    {
+      "link": "https://www.flashflashrevolution.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -100,
+        "code": "EPROTO",
+        "syscall": "write"
+      },
+      "status": "dead",
+      "name": "FlashFlashRevolution2019"
+    },
+    {
+      "link": "https://www.blackspigot.com",
+      "statusCode": 503,
+      "status": "dead",
+      "name": "BlackSpigotMC"
+    },
+    {
+      "link": "https://www.socialengineered.net",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.socialengineered.net"
+      },
+      "status": "dead",
+      "name": "SocialEngineered"
+    },
+    {
+      "link": "https://www.void.to",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "VoidTO"
+    },
+    {
+      "link": "https://www.everybodyedits.com",
+      "statusCode": 401,
+      "status": "dead",
+      "name": "EverybodyEdits"
+    },
+    {
+      "link": "https://www.mindjolt.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.mindjolt.com"
+      },
+      "status": "dead",
+      "name": "MindJolt"
+    },
+    {
+      "link": "https://www.verifications.io",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "VerificationsIO"
+    },
+    {
+      "link": "https://www.demonforums.net",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "188.209.49.50",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "DemonForums"
+    },
+    {
+      "link": "https://www.bannerbit.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.bannerbit.com"
+      },
+      "status": "dead",
+      "name": "BannerBit"
+    },
+    {
+      "link": "https://www.ogusers.com",
+      "statusCode": 503,
+      "status": "dead",
+      "name": "OGUsers"
+    },
+    {
+      "link": "https://www.mappery.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "173.255.244.72",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "Mappery"
+    },
+    {
+      "link": "https://www.bombuj.eu",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.bombuj.eu"
+      },
+      "status": "dead",
+      "name": "BombujEu"
+    },
+    {
+      "link": "https://www.wpsandbox.io",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "WPSandbox"
+    },
+    {
+      "link": "https://www.siae.it",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "SIAE"
+    },
+    {
+      "link": "https://www.fashionnexus.co.uk",
+      "statusCode": 404,
+      "status": "dead",
+      "name": "WhiteRoom"
+    },
+    {
+      "link": "https://www.exactis.com",
+      "statusCode": 403,
+      "status": "dead",
+      "name": "Exactis"
+    },
+    {
+      "link": "https://www.viewfines.co.za",
+      "statusCode": 0,
+      "err": {
+        "errno": -100,
+        "code": "EPROTO",
+        "syscall": "write"
+      },
+      "status": "dead",
+      "name": "ViewFines"
+    },
+    {
+      "link": "https://www.linuxforums.org",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.linuxforums.org"
+      },
+      "status": "dead",
+      "name": "LinuxForums"
+    },
+    {
+      "link": "https://www.chegg.com",
+      "statusCode": 403,
+      "status": "dead",
+      "name": "Chegg"
+    },
+    {
+      "link": "https://www.pemiblanc.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "Pemiblanc"
+    },
+    {
+      "link": "https://www.hounddawgs.org",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "209.99.40.225",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "HoundDawgs"
+    },
+    {
+      "link": "https://www.aitype.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -100,
+        "code": "EPROTO",
+        "syscall": "write"
+      },
+      "status": "dead",
+      "name": "AIType"
+    },
+    {
+      "link": "https://www.dvd-shop.ch",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.dvd-shop.ch"
+      },
+      "status": "dead",
+      "name": "DVDShopCH"
+    },
+    {
+      "link": "https://www.opencsgo.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "OpenCSGO"
+    },
+    {
+      "link": "https://www.coinmama.com",
+      "statusCode": 0,
+      "err": {
+        "bytesParsed": 1262,
+        "code": "HPE_INVALID_HEADER_TOKEN",
+        "reason": "Invalid header value char"
+      },
+      "status": "dead",
+      "name": "Coinmama"
+    },
+    {
+      "link": "https://www.8tracks.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "23.23.108.7",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "8tracks"
+    },
+    {
+      "link": "https://www.zomato.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "Zomato"
+    },
+    {
+      "link": "https://www.healthnow.co",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.healthnow.co"
+      },
+      "status": "dead",
+      "name": "HealthNowNetworks"
+    },
+    {
+      "link": "https://www.sterkinekor.co.za",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "SterKinekor"
+    },
+    {
+      "link": "https://www.bolt.cd",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.bolt.cd"
+      },
+      "status": "dead",
+      "name": "Bolt"
+    },
+    {
+      "link": "https://www.retinax.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -100,
+        "code": "EPROTO",
+        "syscall": "write"
+      },
+      "status": "dead",
+      "name": "RetinaX"
+    },
+    {
+      "link": "https://www.fhostingesps6bly.onion",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.fhostingesps6bly.onion"
+      },
+      "status": "dead",
+      "name": "FreedomHostingII"
+    },
+    {
+      "link": "https://www.rivercitymediaonline.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.rivercitymediaonline.com"
+      },
+      "status": "dead",
+      "name": "RiverCityMedia"
+    },
+    {
+      "link": "https://www.russianamerica.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "209.190.163.46",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "RussianAmerica"
+    },
+    {
+      "link": "https://www.victoryphones.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "VictoryPhones"
+    },
+    {
+      "link": "https://www.gfan.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -100,
+        "code": "EPROTO",
+        "syscall": "write"
+      },
+      "status": "dead",
+      "name": "GFAN"
+    },
+    {
+      "link": "https://www.modbsolutions.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.modbsolutions.com"
+      },
+      "status": "dead",
+      "name": "ModernBusinessSolutions"
+    },
+    {
+      "link": "https://www.pokemonnegro.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.pokemonnegro.com"
+      },
+      "status": "dead",
+      "name": "PokemonNegro"
+    },
+    {
+      "link": "https://www.aipai.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "Aipai"
+    },
+    {
+      "link": "https://www.leet.cc",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "Leet"
+    },
+    {
+      "link": "https://www.eservices.durban.gov.za",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.eservices.durban.gov.za"
+      },
+      "status": "dead",
+      "name": "eThekwiniMunicipality"
+    },
+    {
+      "link": "https://www.digimon.co.in",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.digimon.co.in"
+      },
+      "status": "dead",
+      "name": "Digimon"
+    },
+    {
+      "link": "https://www.nemoweb.net",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "176.31.98.163",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "NemoWeb"
+    },
+    {
+      "link": "https://www.geekedin.net",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "GeekedIn"
+    },
+    {
+      "link": "https://www.akparti.org.tr",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "AKP"
+    },
+    {
+      "link": "https://www.i-dressup.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "iDressup"
+    },
+    {
+      "link": "https://www.f.elex.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.f.elex.com"
+      },
+      "status": "dead",
+      "name": "ClashOfKings"
+    },
+    {
+      "link": "https://www.mac-forums.com",
+      "statusCode": 403,
+      "status": "dead",
+      "name": "MacForums"
+    },
+    {
+      "link": "https://www.crackingforum.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "CrackingForum"
+    },
+    {
+      "link": "https://www.gpsunderground.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "GPSUnderground"
+    },
+    {
+      "link": "https://www.muslimmatch.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "MuslimMatch"
+    },
+    {
+      "link": "https://www.teracod.org",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "67.227.226.241",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "Teracod"
+    },
+    {
+      "link": "https://www.nulled.cr",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.nulled.cr"
+      },
+      "status": "dead",
+      "name": "Nulled"
+    },
+    {
+      "link": "https://www.17app.co",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.17app.co"
+      },
+      "status": "dead",
+      "name": "17Media"
+    },
+    {
+      "link": "https://www.knowncircle.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.knowncircle.com"
+      },
+      "status": "dead",
+      "name": "KnownCircle"
+    },
+    {
+      "link": "https://www.play-gar.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "Playgar"
+    },
+    {
+      "link": "https://www.comelec.gov.ph",
+      "statusCode": 503,
+      "status": "dead",
+      "name": "COMELEC"
+    },
+    {
+      "link": "https://www.staminus.net",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.staminus.net"
+      },
+      "status": "dead",
+      "name": "Staminus"
+    },
+    {
+      "link": "https://www.linuxmint.com",
+      "statusCode": 403,
+      "status": "dead",
+      "name": "LinuxMint"
+    },
+    {
+      "link": "https://www.flashflashrevolution.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -100,
+        "code": "EPROTO",
+        "syscall": "write"
+      },
+      "status": "dead",
+      "name": "FlashFlashRevolution"
+    },
+    {
+      "link": "https://www.onverse.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.onverse.com"
+      },
+      "status": "dead",
+      "name": "Onverse"
+    },
+    {
+      "link": "https://www.nihonomaru.net",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "Nihonomaru"
+    },
+    {
+      "link": "https://www.vtechda.com",
+      "statusCode": 0,
+      "err": {
+        "bytesParsed": 616,
+        "code": "HPE_INVALID_HEADER_TOKEN",
+        "reason": "Invalid header value char"
+      },
+      "status": "dead",
+      "name": "VTech"
+    },
+    {
+      "link": "https://www.ancestry.com",
+      "statusCode": 0,
+      "err": {
+        "bytesParsed": 620,
+        "code": "HPE_INVALID_HEADER_TOKEN",
+        "reason": "Invalid header value char"
+      },
+      "status": "dead",
+      "name": "Ancestry"
+    },
+    {
+      "link": "https://www.abandonia.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "94.247.169.19",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "Abandonia"
+    },
+    {
+      "link": "https://www.phpfreaks.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "199.119.180.52",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "PHPFreaks"
+    },
+    {
+      "link": "https://www.thecandidboard.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "TheCandidBoard"
+    },
+    {
+      "link": "https://www.seedpeer.eu",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.seedpeer.eu"
+      },
+      "status": "dead",
+      "name": "Seedpeer"
+    },
+    {
+      "link": "https://www.hackingteam.com",
+      "statusCode": 526,
+      "status": "dead",
+      "name": "HackingTeam"
+    },
+    {
+      "link": "https://www.myrepospace.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "myRepoSpace"
+    },
+    {
+      "link": "https://www.ipmart-forum.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "iPmart"
+    },
+    {
+      "link": "https://www.ps3hax.net",
+      "statusCode": 500,
+      "status": "dead",
+      "name": "PS3Hax"
+    },
+    {
+      "link": "https://www.eroticy.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "Eroticy"
+    },
+    {
+      "link": "https://www.minecraftpeforum.net",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.minecraftpeforum.net"
+      },
+      "status": "dead",
+      "name": "MinecraftPocketEditionForum"
+    },
+    {
+      "link": "https://www.game-tuts.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "GameTuts"
+    },
+    {
+      "link": "https://www.hongfire.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -100,
+        "code": "EPROTO",
+        "syscall": "write"
+      },
+      "status": "dead",
+      "name": "HongFire"
+    },
+    {
+      "link": "https://www.myfha.net",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "MyFHA"
+    },
+    {
+      "link": "https://www.psx-scene.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "PSX-Scene"
+    },
+    {
+      "link": "https://www.xboxscene.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.xboxscene.com"
+      },
+      "status": "dead",
+      "name": "Xbox-Scene"
+    },
+    {
+      "link": "https://www.solomid.net",
+      "statusCode": 503,
+      "status": "dead",
+      "name": "Solomid"
+    },
+    {
+      "link": "https://www.botoflegends.com",
+      "statusCode": 0,
+      "err": {},
+      "status": "dead",
+      "name": "BotOfLegends"
+    },
+    {
+      "link": "https://www.btc-e.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.btc-e.com"
+      },
+      "status": "dead",
+      "name": "BTCE"
+    },
+    {
+      "link": "https://www.insanelyi.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "Insanelyi"
+    },
+    {
+      "link": "https://www.sumotorrent.sx",
+      "statusCode": 521,
+      "status": "dead",
+      "name": "SumoTorrent"
+    },
+    {
+      "link": "https://www.pizza.dominos.be",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.pizza.dominos.be"
+      },
+      "status": "dead",
+      "name": "Dominos"
+    },
+    {
+      "link": "https://www.mangatraders.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "67.227.226.240",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "MangaTraders"
+    },
+    {
+      "link": "https://www.businessacumen.biz",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "BusinessAcumen"
+    },
+    {
+      "link": "https://www.forums.boxee.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.forums.boxee.com"
+      },
+      "status": "dead",
+      "name": "Boxee"
+    },
+    {
+      "link": "https://www.quantumbooter.net",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "67.227.226.240",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "QuantumBooter"
+    },
+    {
+      "link": "https://www.verified.cm",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "72.52.179.174",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "Verified"
+    },
+    {
+      "link": "https://www.wptapl.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "WPT"
+    },
+    {
+      "link": "https://www.thishabboforum.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "ThisHabboForum"
+    },
+    {
+      "link": "https://www.astropid.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "AstroPID"
+    },
+    {
+      "link": "https://www.torrent-invites.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "TorrentInvites"
+    },
+    {
+      "link": "https://www.imesh.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -3008,
+        "code": "ENOTFOUND",
+        "syscall": "getaddrinfo",
+        "hostname": "www.imesh.com"
+      },
+      "status": "dead",
+      "name": "iMesh"
+    },
+    {
+      "link": "https://www.crackcommunity.com",
+      "statusCode": 503,
+      "status": "dead",
+      "name": "CrackCommunity"
+    },
+    {
+      "link": "https://www.yatra.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "Yatra"
+    },
+    {
+      "link": "https://www.evite.com",
+      "statusCode": 403,
+      "status": "dead",
+      "name": "Evite"
+    },
+    {
+      "link": "https://www.loungeboard.net",
+      "statusCode": 0,
+      "err": {
+        "errno": -54,
+        "code": "ECONNRESET",
+        "syscall": "read"
+      },
+      "status": "dead",
+      "name": "LoungeBoard"
+    },
+    {
+      "link": "https://www.ahashare.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "208.91.197.104",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "AhaShare"
+    },
+    {
+      "link": "https://www.neopets.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ESOCKETTIMEDOUT",
+        "connect": false
+      },
+      "status": "dead",
+      "name": "Neopets"
+    },
+    {
+      "link": "https://www.heroesofgaia.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "HeroesOfGaia"
+    },
+    {
+      "link": "https://www.heroesofnewerth.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -100,
+        "code": "EPROTO",
+        "syscall": "write"
+      },
+      "status": "dead",
+      "name": "HeroesOfNewerth"
+    },
+    {
+      "link": "https://www.thewarinc.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "78.46.98.241",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "WarInc"
+    },
+    {
+      "link": "https://www.gamigo.com",
+      "statusCode": 0,
+      "err": {
+        "bytesParsed": 1054,
+        "code": "HPE_INVALID_HEADER_TOKEN",
+        "reason": "Invalid header value char"
+      },
+      "status": "dead",
+      "name": "Gamigo"
+    },
+    {
+      "link": "https://www.dodonew.com",
+      "statusCode": 0,
+      "err": {
+        "errno": -61,
+        "code": "ECONNREFUSED",
+        "syscall": "connect",
+        "address": "108.61.96.234",
+        "port": 443
+      },
+      "status": "dead",
+      "name": "Dodonew"
+    },
+    {
+      "link": "https://www.battlefieldheroes.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "BattlefieldHeroes"
+    },
+    {
+      "link": "https://www.dangdang.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "Dangdang"
+    },
+    {
+      "link": "https://www.paddypower.com",
+      "statusCode": 0,
+      "err": {
+        "bytesParsed": 0,
+        "code": "HPE_INVALID_CONSTANT",
+        "reason": "Expected HTTP/"
+      },
+      "status": "dead",
+      "name": "PaddyPower"
+    },
+    {
+      "link": "https://www.elance.com",
+      "statusCode": 403,
+      "status": "dead",
+      "name": "Elance"
+    },
+    {
+      "link": "https://www.babynames.com",
+      "statusCode": 403,
+      "status": "dead",
+      "name": "BabyNames"
+    },
+    {
+      "link": "https://www.foxybingo.com",
+      "statusCode": 500,
+      "status": "dead",
+      "name": "FoxyBingo"
+    },
+    {
+      "link": "https://www.gpotato.com",
+      "statusCode": 0,
+      "err": {
+        "code": "ETIMEDOUT",
+        "connect": true
+      },
+      "status": "dead",
+      "name": "gPotato"
+    }
+  ]
+}

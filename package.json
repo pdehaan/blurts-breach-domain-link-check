@@ -1,0 +1,24 @@
+{
+  "name": "blurts-breach-domain-link-check",
+  "version": "1.0.0",
+  "description": "Check breach.Domain for broken links.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/blurts-breach-domain-link-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdehaan/blurts-breach-domain-link-check/issues"
+  },
+  "homepage": "https://github.com/pdehaan/blurts-breach-domain-link-check#readme",
+  "dependencies": {
+    "hibp-chain-api": "github:pdehaan/hibp-chain-api",
+    "link-check": "^4.4.7"
+  }
+}
